@@ -4,6 +4,11 @@ The original templates could be found from his FTP site "/class/ee364b/latex_tem
 
 https://web.stanford.edu/class/ee364b/latex_templates/
 
+### Screenshots
+
+![](screenshot_1.png)
+![](screenshot_2.png)
+
 ### Usage
 
 `pdflatex template_slides.tex && pdflatex template_slides.tex`
@@ -11,4 +16,3 @@ https://web.stanford.edu/class/ee364b/latex_templates/
 `pdflatex template_notes.tex && bibtex template_notes && pdflatex template_notes.tex && pdflatex template_notes.tex`
 
 `pdflatex template_poster.tex && pdflatex template_poster.tex`
-
